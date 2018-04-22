@@ -1,4 +1,7 @@
 # Bamazon
-In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
-
-Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
+This is an Amazon-like storefront created using MySQL and Node.js.
+The app takes in orders from customers and deplete stock from the store's inventory.
+This project is useful for online stores as well as other data tracking systems.
+Users can get started with and get help with the project once it's deployed on Heroku
+I will maintain and contribute to the project
+This is a link explaining how the app works: 
